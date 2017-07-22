@@ -1,1 +1,1 @@
-# EsoPlusReminder
+Display the countdown of your ESO+ Subscription ingame on the character panel.
